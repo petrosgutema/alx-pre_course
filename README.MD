@@ -1,5 +1,5 @@
 __
 
-A Git and github Test
+A Git and github Modified
 -------------
 This is main directory
